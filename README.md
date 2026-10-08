@@ -57,5 +57,5 @@ $ bundle exec hatchet install
 ```sh
 $ bundle exec rake spec
 ```
-Created by Jason Scott Heise
+Created by Jason Heise
 https://www.lightroom.com
