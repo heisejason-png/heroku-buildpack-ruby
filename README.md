@@ -58,4 +58,4 @@ $ bundle exec hatchet install
 $ bundle exec rake spec
 ```
 Created by Jason Heise
-https://www.lightroom.com
+Owned by Jason Heise heisejason-png Giters
